@@ -72,6 +72,8 @@ body {
 #header span {
   display: inline-block;
   margin-left: 520px;
+  position: relative;
+  bottom: 10px;
 }
 
 #additional-info {
