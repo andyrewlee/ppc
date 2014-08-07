@@ -88,5 +88,43 @@ body {
  *
  */
 
+h2 {
+  background-color: #F8C547;
+  padding: 10px;
+  font-size: 1em;
+}
+
 #main-content {
+  margin-top: 15px;
+}
+
+#about p {
+  color: white;
+  padding: 0 20px 20px 20px;
+}
+
+#about h3 {
+  padding: 0 10px;
+  color: white;
+  margin: 17px 10px;
+}
+
+#about img {
+  padding: 5px;
+  background-color: white;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+div#description {
+  width: 602px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #4A4A4A;
+  height: 307px;
+}
+
+#additional-info2 {
+  color: #F8C547;
+  padding: 5px;
 }
